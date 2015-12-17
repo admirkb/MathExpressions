@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExpressions", "MathExpr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBMath", "KBMath\KBMath.csproj", "{33C3C089-6256-44F4-9C4F-999929EC12C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExpressionsTest", "MathExpressionsTest\MathExpressionsTest.csproj", "{4B0476BF-408C-4D46-9494-0B7368A6D616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{33C3C089-6256-44F4-9C4F-999929EC12C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33C3C089-6256-44F4-9C4F-999929EC12C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C3C089-6256-44F4-9C4F-999929EC12C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0476BF-408C-4D46-9494-0B7368A6D616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0476BF-408C-4D46-9494-0B7368A6D616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0476BF-408C-4D46-9494-0B7368A6D616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0476BF-408C-4D46-9494-0B7368A6D616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
